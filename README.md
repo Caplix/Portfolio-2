@@ -4,8 +4,6 @@ This project is a simple way for me to display my skills and past projects
 
 ## Built With
 
-You can list a the tech stack that you've used over here
-
 - [React.js](https://reactjs.org/)
 - [Tailwind](https://tailwindcss.com/)
 - [React-Icons](https://react-icons.github.io/react-icons/)
